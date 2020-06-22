@@ -61,6 +61,7 @@ or
 
 Development
 -----------
+We welcome development from anyone interested in contributing to this effort. 
 
 .. code:: bash
 
@@ -83,6 +84,11 @@ To run an individual unit test in a Python session, use, e.g.,
 
     from hapiclient.test.test_hapi import test_reader
     test_reader()
+
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+
+.. |Contributor Covenant| image:: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg :target: code_of_conduct.md
+
 
 Contact
 -------
